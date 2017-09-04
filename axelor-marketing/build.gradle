@@ -8,7 +8,7 @@ module {
 	removable true
 
 	module "modules:axelor-crm"
-	module "modules:axelor-studio"
+	module "modules:csi-filter"
 
 
 }
