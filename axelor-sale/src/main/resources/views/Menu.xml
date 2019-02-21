@@ -146,7 +146,7 @@
 		title="Cancel Reasons" action="sale.conf.cancelreason" />
 
 	<action-view name="sale.conf.cancelreason"
-		title="Cancel Reason" model="com.axelor.apps.sale.db.CancelReason" >
+		title="Cancel Reason" model="com.axelor.apps.sale.db.CancelReasonSale" >
 		<view type="grid" name="cancel-reason-grid" />
 		<view type="form" name="cancel-reason-form" />
 	</action-view>
