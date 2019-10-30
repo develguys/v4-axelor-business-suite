@@ -7,4 +7,5 @@ module {
 
 	// module dependencies
 	module "modules:axelor-base"
+	module "modules:csi-marketing"
 }
